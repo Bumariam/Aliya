@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "995258126083",
+    "project_id": "bodyboost-2a846",
+    "storage_bucket": "bodyboost-2a846.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995258126083:android:b36f284d95161948f32336",
+        "android_client_info": {
+          "package_name": "com.android.bodyboost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995258126083-5b6cm4rk1pfvol9defjc7hhp1hq8tlac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQB9LNjM93mdwgRDgoYv-XsIQjrqb8g20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995258126083-5b6cm4rk1pfvol9defjc7hhp1hq8tlac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
